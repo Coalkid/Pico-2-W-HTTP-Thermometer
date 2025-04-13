@@ -2,7 +2,7 @@
 
 ## Overview
 This project uses a Raspberry Pi Pico W to create a thermometer system that measures temperature using a DS18B20 sensor, displays the data on an I2C LCD screen, and serves the temperature readings via a web interface. The system also connects to Wi-Fi for remote monitoring.
-
+![Schematic of Raspberry Pi Pico W Thermometer Project](pico_design.png)
 ## Features
 - **Temperature Measurement**: Utilizes the DS18B20 sensor for accurate temperature readings.
 - **LCD Display**: Displays real-time temperature and IP address on a 16x2 I2C LCD.
