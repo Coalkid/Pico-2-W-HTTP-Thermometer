@@ -56,3 +56,9 @@ You need to start: http://{ip} in browser incognito mode to avoid storing cache:
 ![Schematic of Raspberry Pi Pico W Thermometer Project](ip.png)
 
 ![Schematic of Raspberry Pi Pico W Thermometer Project](http.png)
+
+## Power Management
+
+Device is powered by standard Pico USB - you can use powerbank for example
+
+There is no problem to power the device by Pico VSYS pin with 5V but make sure that devices in circut uses 3V energy.
