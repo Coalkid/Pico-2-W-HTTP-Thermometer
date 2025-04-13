@@ -48,3 +48,11 @@ Update the following variables in the code:
 3v3 V Pico pin is suitable to porwer all devices in this circut.
 
 You can simply power LCD and thermometer without additional electronic components.
+
+When the device is connected to network, it's IP address is shown on the LCD screen
+
+You need to start: http://{ip} in browser incognito mode to avoid storing cache:
+
+![Schematic of Raspberry Pi Pico W Thermometer Project](ip.png)
+
+![Schematic of Raspberry Pi Pico W Thermometer Project](http.png)
