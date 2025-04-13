@@ -46,4 +46,5 @@ Update the following variables in the code:
 ```
 
 3v3 V Pico pin is suitable to porwer all devices in this circut.
+
 You can simply power LCD and thermometer without additional electronic components.
